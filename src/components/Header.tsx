@@ -42,7 +42,7 @@ const Header = () => {
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       {/* Top Bar */}
       <div className="gradient-primary text-primary-foreground py-1.5 text-center text-sm">
-        🎉 Free shipping on orders over ₹999 | Use code GLOBAL10 for 10% off
+        🎉 Free shipping on orders over ₹999 | Use code FLAT10 for 10% off
       </div>
 
       {/* Main Header */}
@@ -54,7 +54,7 @@ const Header = () => {
               <ShoppingCart className="h-6 w-6 text-primary-foreground" />
             </div>
             <span className="hidden text-xl font-bold gradient-text sm:inline-block">
-              Global Import
+              Riddhi Siddhi NX 
             </span>
           </Link>
 
