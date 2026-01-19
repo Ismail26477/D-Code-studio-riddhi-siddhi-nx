@@ -19,7 +19,7 @@ const HeroSection = () => {
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight">
               Your{" "}
-              <span className="gradient-text">Global Shopping</span>{" "}
+              <span className="gradient-text">Riddhi Siddhi NX Shopping</span>{" "}
               Destination
             </h1>
 
